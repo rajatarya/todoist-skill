@@ -1,4 +1,4 @@
-# todoist-skill
+# Todoist-skill
 
 A [Claude Code](https://claude.ai/claude-code) plugin for managing [Todoist](https://todoist.com) tasks via the [`td` CLI](https://www.npmjs.com/package/todoist-cli).
 
