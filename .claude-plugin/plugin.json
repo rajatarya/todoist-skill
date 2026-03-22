@@ -1,0 +1,13 @@
+{
+  "name": "todoist",
+  "version": "1.0.0",
+  "description": "Manage Todoist tasks, projects, labels, and more via the td CLI. Use when the user asks about tasks, to-dos, what's due, productivity, or mentions Todoist.",
+  "author": {
+    "name": "Rajat Arya",
+    "url": "https://github.com/rajatarya"
+  },
+  "homepage": "https://github.com/rajatarya/todoist-skill",
+  "repository": "https://github.com/rajatarya/todoist-skill",
+  "license": "MIT",
+  "keywords": ["todoist", "tasks", "todo", "productivity", "td"]
+}

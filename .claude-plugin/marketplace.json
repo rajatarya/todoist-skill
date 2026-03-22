@@ -1,0 +1,16 @@
+{
+  "name": "todoist-skill",
+  "description": "Claude Code skill for managing Todoist via the td CLI",
+  "owner": {
+    "name": "Rajat Arya",
+    "url": "https://github.com/rajatarya"
+  },
+  "plugins": [
+    {
+      "name": "todoist",
+      "description": "Manage Todoist tasks, projects, labels, and more via the td CLI",
+      "version": "1.0.0",
+      "source": "./"
+    }
+  ]
+}
